@@ -1,0 +1,334 @@
+*{padding: 0;margin: 0;border: 0;}
+*,*:before,*:after{-moz-box-sizing: border-box;-webkit-box-sizing: border-box;box-sizing: border-box;}
+:focus,:active{outline: none;}
+a:focus,a:active{outline: none;}
+nav,footer,header,aside{display: block;}
+html,body{height:100%;width:100%;font-size:100%;line-height:1;font-size:14px;-ms-text-size-adjust:100%;-moz-text-size-adjust:100%;-webkit-text-size-adjust:100%;}
+input,button,textarea{font-family:inherit;}
+input::-ms-clear{display: none;}
+button{cursor: pointer;}
+button::-moz-focus-inner {padding:0;border:0;}
+a,a:visited{text-decoration: none;}
+a:hover{text-decoration: none;}
+ul li{list-style: none;}
+img{vertical-align: top;}
+h1,h2,h3,h4,h5,h6{font-size:inherit;font-weight: inherit;}
+body{
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+	padding: 150px 30px 30px 30px;
+    background-color: #333;
+}
+.Block{
+    display: block;
+	  margin: 0;
+    padding: 0;
+    background-color: #337AB7;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+border-radius: 1000px;
+    text-align: center;
+    font height: 800;
+    font-family: cursive;   
+font-size: 50px;
+    color:black;
+   background-image: url(https://politeka.net/images/2019/12/06/sBV9fQPmDs3LSlNQ2SzumR2VuXRAQAJgICBjwJEE.jpeg);
+      
+background-repeat: no-repeat;
+background-position:center,25%;
+background-size: 100% 100%, cover;
+    
+    
+    
+        
+}
+.Block:hover{
+    background-image: url(https://s.057.ua/section/newsInText/upload/images/news/intext/000/051/718/park-gorkogo-kharkov-1_5e3432256798c.jpg);
+    
+}
+.qwe{
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+}
+.Blocck{
+     margin-top: -12px;
+    align-self: center;
+    transform: perspective(300px) rotateX(15deg) scaleY(0.8);
+    transition: all 0.5s;
+    font-family: Impact, Charcoal, sans-serif;
+    font-size: 300px;
+    letter-spacing: 10px;
+    color:cornsilk;
+    text-shadow: 0 0 10px rgba(0, 0, 0, 0.9), 0 10px 0 #BFE2FF;
+    text-align: center;
+    font-size: 50px;
+   
+}
+.Block:hover.Blocck{
+    transform: perspective(1000px) rotateX(15deg) scale(1.07);
+    text-shadow: 0 0 10px black, 0 2px 0 #BFE2FF;
+    
+}
+.Blocck{
+    font-size: 100px; 
+    
+}
+.Ss{
+    text-align: left;
+     font-size: 20px;
+    border-radius: 10px;
+    padding:10px;
+    word-spacing: 175px;
+    color:darkgreen;
+    
+    
+    
+}
+.Ss1{
+    background-color: aqua;
+     text-align: left;
+     font-size: 20px;
+    border-radius: 10px;
+    padding:10px;
+    word-spacing: 175px;
+    color:black;
+}
+.Ss2{
+    background-color: chartreuse;
+     text-align: left;
+     font-size: 20px;
+    border-radius: 10px;
+    padding:10px;
+    word-spacing: 175px;
+    color:black;
+}
+.Ss3{
+      background-color:darkorange;
+     text-align: left;
+     font-size: 20px;
+    border-radius: 10px;
+    padding:10px;
+    word-spacing: 175px;
+    color:black;
+}
+.Ss4{
+      background-color:blue;
+     text-align: left;
+     font-size: 20px;
+    border-radius: 10px;
+    padding:10px;
+    word-spacing: 175px;
+    color:black;
+   
+}
+.Ss5{
+    background-color:#fff;
+     text-align: left;
+     font-size: 20px;
+    border-radius: 10px; 
+    padding:10px;
+    word-spacing: 300px;
+    color:black;
+        position: relative;
+left: 50%;
+transform: translate(-50%, 0);
+   
+}
+.Osnova{
+   
+  line-height: 2em;   
+    font-size: 20px;
+  
+ border-color: aliceblue;
+    color: aliceblue;
+   
+}
+.cc{
+    font-size: 40px;
+    text-align: center;
+    color: darkgrey;
+    
+}
+.vv{
+      background:#E8E8E8;
+    float:none;
+    width: 300px;
+    height: 300px;
+    margin:16px;
+   
+}
+.as{
+    display: block;
+	  margin: 0;
+    padding: 0;
+    background-color: #337AB7;
+    position: relative;
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+border-radius: 1000px;
+    text-align: center;
+    font height: 800;
+    font-family: cursive;   
+font-size: 50px;
+    color:black;
+    background-image: url(https://cdn.ostrovok.ru/t/640x400/content/5d/54/5d54cc739d51d5cadb09c5254d837b3e68db767a.jpeg);
+    background-repeat: no-repeat;
+background-position:center,25%;
+background-size: 100% 100%, cover;
+}
+.as:hover{
+    background-image: url(https://i.imgur.com/LULEobh.jpg);
+    width: 100%;
+    height: 100%;
+}
+.www{
+    position: absolute;
+left: 0;
+right: 0;
+margin: auto;
+border: solid;
+padding: 1em;
+background: white;
+color: black;
+}
+.tabs {
+        min-width: 320px;
+        max-width: 800px;
+        padding: 0px;
+        margin: 0 auto;
+    background-color:#333;
+    color: #333;
+ word-spacing: 165px;
+}
+/* Стили секций с содержанием */
+.tabs>section {
+        display: none;
+        padding: 15px;
+        background:#333;
+ border: 1px solid #333;
+}
+.tabs>section>p {
+        margin: 0 0 5px;
+        line-height: 1.5;
+        color: #fff;
+ /* прикрутим анимацию */
+        -webkit-animation-duration: 1s;
+        animation-duration: 1s;
+        -webkit-animation-fill-mode: both;
+        animation-fill-mode: both;
+        -webkit-animation-name: fadeIn;
+        animation-name: fadeIn;
+}
+/* Описываем анимацию свойства opacity */
+ 
+@-webkit-keyframes fadeIn {
+        from {
+                opacity: 0;
+        }
+        to {
+                opacity: 1;
+        }
+}
+@keyframes fadeIn {
+        from {
+                opacity: 0;
+        }
+        to {
+                opacity: 1;
+        }
+}
+/* Прячем чекбоксы */
+.tabs>input {
+        display: none;
+        position: absolute;
+}
+/* Стили переключателей вкладок (табов) */
+.tabs>label {
+        display: inline-block;
+        margin: 0 0 -1px;
+        padding: 15px 25px;
+        font-weight: 600;
+        text-align: center;
+        color: #aaa;
+ border: 0px solid #333;
+ border-width: 1px 1px 1px 1px;
+        background:#fff;
+ border-radius: 3px 3px 0 0;
+}
+/* Шрифт-иконки от Font Awesome в формате Unicode */
+.tabs>label:before {
+        font-family: fontawesome;
+        font-weight: normal;
+        margin-right: 10px;
+}
+.tabs>label[for*="1"]:before {
+        content: "\f19a";
+}
+.tabs>label[for*="2"]:before {
+        content: "\f17a";
+}
+.tabs>label[for*="3"]:before {
+        content: "\f13b";
+}
+.tabs>label[for*="4"]:before {
+        content: "\f13c";
+}
+/* Изменения стиля переключателей вкладок при наведении */
+ 
+.tabs>label:hover {
+        color:darkred;
+ cursor: pointer;
+}
+/* Стили для активной вкладки */
+.tabs>input:checked+label {
+        color:black;
+ border-top: 1px solid #333;
+ border-bottom: 1px solid #333;
+ background:#fff;
+     word-spacing:normal;
+}
+/* Активация секций с помощью псевдокласса :checked */
+#tab1:checked~#content-tab1, #tab2:checked~#content-tab2, #tab3:checked~#content-tab3, #tab4:checked~#content-tab4 {
+ display: block;
+}
+/* Убираем текст с переключателей 
+* и оставляем иконки на малых экранах
+*/
+ 
+@media screen and (max-width: 680px) {
+        .tabs>label {
+                font-size: 0;
+        }
+        .tabs>label:before {
+                margin: 0;
+                font-size: 18px;
+        }
+}
+/* Изменяем внутренние отступы 
+*  переключателей для малых экранов
+*/
+@media screen and (max-width: 400px) {
+        .tabs>label {
+                padding: 15px;
+        }
+}
+.word{
+     word-spacing:normal;
+    font-size: 20px;
+    
+}
+.ert{
+     word-spacing:normal;
+    font-size: 20px;
+}
+.vcc{
+     word-spacing:normal;
+    font-size: 20px;
+}
